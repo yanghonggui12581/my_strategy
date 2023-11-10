@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+seaborn
+backtrader
+ipykernel
+pymysql
+tushare
+retrying
+statsmodels
